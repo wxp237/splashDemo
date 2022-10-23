@@ -1,0 +1,16 @@
+C:\Users\Willson\Downloads\splashDemo\splashDemo\bin\x64\Debug\splashDemo.exe.config
+C:\Users\Willson\Downloads\splashDemo\splashDemo\bin\x64\Debug\splashDemo.exe
+C:\Users\Willson\Downloads\splashDemo\splashDemo\bin\x64\Debug\splashDemo.pdb
+C:\Users\Willson\Downloads\splashDemo\splashDemo\bin\x64\Debug\WpfMath.dll
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo.csprojResolveAssemblyReference.cache
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\MainWindow.baml
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\SplashWindow.baml
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\SplashWindow.g.cs
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\App.g.cs
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo_MarkupCompile.cache
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo.g.resources
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo.Properties.Resources.resources
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo.csproj.GenerateResource.Cache
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo.exe
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x64\Debug\splashDemo.pdb

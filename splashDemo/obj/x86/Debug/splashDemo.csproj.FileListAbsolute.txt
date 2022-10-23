@@ -1,0 +1,2 @@
+C:\Users\Willson\Downloads\splashDemo\splashDemo\obj\x86\Debug\splashDemo.csprojResolveAssemblyReference.cache
+C:\Users\Willson\Downloads\splashDemo\splashDemo\bin\Debug\splashDemo.exe.config
